@@ -1,0 +1,17 @@
+#logo{
+    width: 20%;
+    position: absolute;
+}
+.navbar-nav{
+    margin-left: 600px;
+}
+.nav-item{
+    padding: 20px;
+}
+#signin{
+    padding: 10px 40px;
+    background-image: linear-gradient(lightgreen, green);
+    border-radius: 20px;
+    color: white;
+
+}
