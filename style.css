@@ -1,3 +1,7 @@
+.top-banner{
+    background-color: rgb(184, 223, 184);
+    height: 550px;
+}
 #logo{
     width: 20%;
     position: absolute;
@@ -13,4 +17,71 @@
     background-image: linear-gradient(lightgreen, green);
     border-radius: 20px;
     color: white;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+.half-width p{
+    color: orange;
+    font-size: 15px;
+}
+.card-deck{
+    text-align: center;
+}
+.card img{
+    float: left;
+    width: 25%;
+    margin-left: 40%;
+    padding-left: 2%;
+}
+#dummy-text{
+    color: #000;
+}
+#schedule{
+    color: green;
+}
+.left-side{
+    padding-top: 50px;
+    margin-left: 15%;
+}
+.link-button{
+    background-image: linear-gradient(lightgreen, green);
+    padding: 10px 40px;
+    border-radius: 20px;
+    color: black
+}
+.middle-part{
+    padding-top: 50px;
+}
+.third-part{
+    margin-top: 100px;
+}
+#course{
+    text-align: center;
+}
+.card-body3{
+    text-align: left;
+    margin-left: 5%;
+}
+.calender{
+    width: 50px;
+}
+.last-part{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#footer-image{
+    width: 120px;
+    float: left;
+    margin-left: 20%;
+    padding-left: 2%;
+}
+footer{
+    text-align: center;
 }
