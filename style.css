@@ -1,3 +1,8 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    color: #000000;
+}
 .top-banner{
     background-color: rgb(184, 223, 184);
     height: 550px;
@@ -39,6 +44,19 @@
     width: 25%;
     margin-left: 40%;
     padding-left: 2%;
+    margin-bottom: 20px;
+}
+button.theme-btn{
+    background-color: #21B573;
+    padding: 10px 35px;
+    border-radius: 50px;
+    border: 1px solid #21B573;
+    transition: .3s;
+}
+.card-footer-content img {
+    max-width: 24px;
+    max-height: 24px;
+    margin-right: 8px;
 }
 #dummy-text{
     color: #000;
@@ -72,16 +90,29 @@
 .calender{
     width: 50px;
 }
-.last-part{
+.fourth-part{
     margin-top: 100px;
     margin-bottom: 100px;
 }
-#footer-image{
+#man-image{
     width: 120px;
     float: left;
     margin-left: 20%;
     padding-left: 2%;
 }
-footer{
-    text-align: center;
+.footer-section{
+    background-color: #282531;
+    color: #fff;
+    padding-top: 48px;
+}
+.footer-right-text ul li a.list-header {
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+    text-decoration: none;
+}
+.footer-right-text ul li a{
+    color: white;
+    text-decoration: none;
 }

@@ -1,0 +1,59 @@
+<div class="card-group">
+          <div class="card">
+            <div class="card-body">
+              <p class="card-text">Millions of people of all ages and from around the world are improving their lives with us.</p>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <h6><b> Course </b></h6>
+              <p class="card-text">Graphics Design <br> Web Design <br> Business <br> Marketing <br> Engineering </p>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <h6><b> Terms </b></h6>
+              <p class="card-text">Graphics Design <br> Web Design <br> Business <br> Marketing <br> Engineering </p>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <h6><b> Useful Link </b></h6>
+              <p class="card-text">Graphics Design <br> Web Design <br> Business <br> Marketing <br> Engineering </p>
+            </div>
+          </div>
+        </div>
+
+Online Course Section:
+<div class="card-deck">
+          <div class="card">
+            <img src="images/Photos/Morder pyschology.png" class="card-img-top" alt="...">
+            <div class="card-body3">
+              <h5 class="card-title">Modern Psychology</h5>
+              <p class="card-text">Designation</p> <br>
+              <a class="link-button" target="new"> Buy Course </a> <br><br>
+              <img class="calender" src="images/ICON/calendar.png" alt="">
+              <p>Started 20 April, 2021</p>
+              <img src="images/ICON/people.png" alt="">
+              <p>60 seats</p>
+            </div>
+          </div>
+          <div class="card">
+            <img src="images/Photos/Morder psyc.png" class="card-img-top" alt="...">
+            <div class="card-body3">
+              <h5 class="card-title">Modern Psychology</h5>
+              <p class="card-text">Designation</p> <br>
+              <a class="link-button" target="new"> Buy Course </a>
+            </div>
+          </div>
+          <div class="card">
+            <img src="images/Photos/Morder pychons.png" class="card-img-top" alt="...">
+            <div class="card-body3">
+              <h5 class="card-title">Modern Psychology</h5>
+              <p class="card-text">Designation</p> <br>
+              <a class="link-button" target="new"> Buy Course </a>
+            </div>
+          </div>
+        </div>
+
+https://electronic-school.netlify.app/#
